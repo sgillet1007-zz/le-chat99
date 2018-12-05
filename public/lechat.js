@@ -1,5 +1,5 @@
 // Make connection
-var socket = io.connect('http://localhost:4444');
+var socket = io.connect('https://vast-shelf-60336.herokuapp.com/');
 
 // Query DOM
 var message = document.getElementById('message'),
