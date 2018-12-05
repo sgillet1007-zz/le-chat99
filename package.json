@@ -4,7 +4,8 @@
   "description": "socket.io chat app",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
